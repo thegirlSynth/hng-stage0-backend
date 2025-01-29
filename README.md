@@ -3,7 +3,7 @@
 This is a FastAPI-based public API for the HNG Stage 0 Backend task.
 
 ## API Endpoint
-- **URL**: `https://your-vercel-url.vercel.app/`
+- **URL**: `https://hng-stage0-backend-one.vercel.app/`
 - **Method**: `GET`
 - **Response Format**: JSON
   ```json
